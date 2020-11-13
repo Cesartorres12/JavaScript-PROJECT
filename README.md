@@ -1,0 +1,2 @@
+# JavaScript-PROJECT
+Tip Calculator
